@@ -237,8 +237,8 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   chipsContainer: {
-    paddingLeft: 16,
     marginBottom: 10,
+    paddingLeft: 16,
     flexGrow: 0,
   },
   chip: {
@@ -269,6 +269,7 @@ const styles = StyleSheet.create({
   },
   list: {
     padding: 16,
+    margin: 10,
   },
 });
 
